@@ -7,15 +7,15 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
-    "axios": "^0.21.1",
+    "axios": "^1.7.7",
     "bootstrap": "^5.0.0-alpha1",
     "popper.js": "^1.16.1",
+    "vite": "^2.9.18",
     "vue": "^3.0.5",
     "vue-router": "^4.0.10"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.5",
-    "@vue/compiler-sfc": "^3.0.5",
-    "vite": "^2.4.2"
+    "@vue/compiler-sfc": "^3.0.5"
   }
 }
